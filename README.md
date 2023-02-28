@@ -1,7 +1,7 @@
 # Training Test
 ### *test repo for git / github lesson in the ADC reproducible course*
 
-### **Learning objective for the lesson
+### **Learning objective for the lesson**
 
 - demonstrate how to create a repository in GitHub
 - practice making a commit
